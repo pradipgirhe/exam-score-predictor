@@ -182,7 +182,7 @@ You can deploy this project for free on:
 Pradip Girhe
 
 GitHub:
-https://github.com/pradippanduranggirhe
+https://github.com/pradipgirhe
 
 ---
 
